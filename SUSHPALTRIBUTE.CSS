@@ -1,0 +1,47 @@
+h3{
+    text-align: center;
+    color: rgb(130, 7, 40);
+  }
+  h4{
+    font-size: large;
+  }
+  #image{
+    width: 300px;
+    height: 300px;
+    padding-left: 250px;
+    padding-top: 50px;
+  }
+  #heading{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #img{
+    max-width: 100%;
+    max-height: 100%;
+  }
+  #paragraph{
+    text-align: left;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  #good{
+    border: 5px solid black;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 1%;
+    padding-bottom: 150px;
+    background-color: rgba(153, 169, 14, 0.7);
+  }
+  #background{
+    background: url(./BHEEM5.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: NO-repeat;
+  }
+  #footer{
+    font-size: large;
+    color: rgb(17, 5, 118);
+  }
+  .heading{
+    font-weight: bolder;
+  }
